@@ -1,0 +1,43 @@
+\documentclass[12pt]{article}
+\usepackage[a4paper, top=2.5cm, bottom=2.5cm, left=2.2cm, right=2.2cm]{geometry}
+
+\usepackage{graphicx} %package to manage images
+\graphicspath{ {graphics/} }
+
+\title{Gem-type Paperclip Technical Description}
+\author{John Pugliesi}
+\date{August 29, 2016}
+
+\begin{document}
+
+\maketitle
+
+\section{Overview}
+
+The Gem-type paperclip is a tool used for the temporary binding of thin,
+paper-like items. Composed of only a stick of stainless steel metal, the
+paperclip's particular bent arrangement creates two clip-ends which papers can be slipped
+between, and thus bound together impermanently.
+
+\section{Physical Description}
+The paperclip is composed of a single stick of stainless steel
+metal. As seen in Figure \ref{fig:paperclip1}, two clip-ends are formed by
+bending the metal stick in three places, forming an oblong spiral that has a
+width of 0.375 in, and a length of 1.875 in. As a result of this bending
+formation, the tips of the two clip-ends are off-set in length by 0.25 in. The
+paperclip has a uniform vinyl-clad metal finish, making for a subtley matte silver
+colored surface that is still reflective.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\textwidth]{graphics/paperclip_overview}
+    \caption{Overhead view of a paperclip, and its two clip-ends.}
+    \label{fig:paperclip1}
+\end{figure}
+
+\section{Operating Principles}
+
+
+
+
+\end{document}

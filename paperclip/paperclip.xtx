@@ -14,30 +14,62 @@
 
 \section{Overview}
 
-The Gem-type paperclip is a tool used for the temporary binding of thin,
+The Gem-type paperclip is a tool used for the temporary attachment of thin,
 paper-like items. Composed of only a stick of stainless steel metal, the
-paperclip's particular bent arrangement creates two clip-ends which papers can be slipped
-between, and thus bound together impermanently.
+paperclip's particular bent arrangement creates two clip-ends that papers can be slipped
+between, and thus attached together impermanently.
 
 \section{Physical Description}
 The paperclip is composed of a single stick of stainless steel
-metal. As seen in Figure \ref{fig:paperclip1}, two clip-ends are formed by
-bending the metal stick in three places, forming an oblong spiral that has a
-width of 0.375 in, and a length of 1.875 in. As a result of this bending
-formation, the tips of the two clip-ends are off-set in length by 0.25 in. The
-paperclip has a uniform vinyl-clad metal finish, making for a subtley matte silver
-colored surface that is still reflective.
+spring metal with a diameter of approximately 0.04 in. As seen in
+Figure \ref{fig:paperclip1}, two clip-ends are formed by bending the metal stick
+in three places, forming an oblong spiral that has a width of 0.375 in, and a
+length of 1.875 in. As a result of this bending arrangement, the tips of the two
+clip-ends are off-set in length by 0.25 in. The paperclip has a uniform
+vinyl-clad metal finish, making for a subtly matte silver colored surface that
+is still reflective.
 
-\begin{figure}[h]
-    \centering
-    \includegraphics[width=0.5\textwidth]{graphics/paperclip_overview}
-    \caption{Overhead view of a paperclip, and its two clip-ends.}
-    \label{fig:paperclip1}
-\end{figure}
+\begin{figure}[h] \centering
+\includegraphics[width=0.5\textwidth]{graphics/paperclip_overview}
+\caption{Overhead view of a paperclip, and its two clip-ends.}
+\label{fig:paperclip1} \end{figure}
 
-\section{Operating Principles}
+\section{Process Description}
+\subsection{Operating Principles}
 
+There are three essential operating principles that make this particular
+Gem paperclip design effective towards the purpose of temporarily
+attaching papers together. First, the elastic spring metal of the paperclip
+allows its clip-ends to be expanded, and then contract back into place. This
+dynamic is represented by Hooke's Law, which essentially states that the
+extension of a spring is proportional to the force applied to that spring. The end result
+is two clip-ends that retract towards each other, attaching any papers that sit
+between their grip. The second property that makes the paperclip an effective
+tool is friction. The paperclip's vinyl-clad metal finish makes it
+coarse enough to provide sufficient friction for holding papers together, while
+smooth enough to not be abrasive as papers are slipped into, and out of its
+grip. Finally, the offset length of its clip-ends makes inserting a stack of
+papers into a paperclip more seamless. As seen in Figure
+\ref{fig:paperclip_use}, offset clip-ends allows papers to rest on the longer-end,
+while being easily slipped beneath the clasping grip of the shorter-end.
 
+\begin{figure}[h] \centering
+\includegraphics[width=0.5\textwidth]{graphics/paperclip_functional}
+\caption{The paperclip's offset clip-ends makes attaching papers a seamless task.}
+\label{fig:paperclip_use} \end{figure}
 
+\subsection{Usage}
+
+Using a paperclip to attach a stack of papers is a simple task:
+
+\begin{enumerate}
+\item Collect the papers in an orderly stack.
+\item Gently pinch the stack of papers together near the area where the paperclip is to be applied. This is usually the top-left corner of portrait-oriented A4 sized paper. 
+\item Hold the paper clip opposite the side with the two clip-ends.
+\item Maintaining a pinch on the papers, lay the tip of the paperclip's long clip-end flush with the back of the stack of papers.
+\item Keeping the papers flush with the long clip-end, gently separate the long
+clip-end away from the short clip-end, exposing a small gap between which the
+two papers can be inserted.  
+\end{enumerate}
 
 \end{document}
